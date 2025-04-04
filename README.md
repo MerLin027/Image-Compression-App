@@ -1,4 +1,4 @@
-# MERN Stack Internal Practical Exam - Image Compression & Analytics App
+# MERN Stack Internal Practical Exam - Image Compression & Analytics App - 23IT032
 
 ## 🧩 Problem Statement
 Create an **Image Compression & Analytics App** using the MERN stack. Users should be able to upload images, compress them, and download the optimized versions. The system should track logs and provide analytics such as number of compressions, total size saved, and user activity.
